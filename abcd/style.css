@@ -1,0 +1,7 @@
+.abcd, p{
+    color: blue;
+    background: linear-gradient(75deg, red, blue);width: 100px;
+    height: 100px;
+    border-radius: 20px;
+
+}
